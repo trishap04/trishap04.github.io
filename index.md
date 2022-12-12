@@ -18,4 +18,4 @@ My GitHub page is http://github.com/trishap04.
 
 * Lab 7
 
-    Lab 7, part 1 was my favorite because I love playing Blackjack in the real world. Seeing how the game plays 
+    Lab 7, part 1 was my favorite because I love playing Blackjack in the real world. Seeing how the game plays out on the computer was something I found very intriguing. Being able to create functions to find the right hand for Blackjack despite not knowing how the Aces are given out was what I found very fun. Lastly, I liked to test the code extra on this part of the lab because you could do such a wide variety of different tests to see what score you would get.
