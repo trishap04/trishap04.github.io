@@ -14,8 +14,8 @@ My GitHub page is http://github.com/trishap04.
 
 * Lab 5
 
-    Lab 5, I enjoyed all of the part of this lab because they were fun little topis and activities like Blackjack and sandwich order. I enjoyed part 1 a lot because it connected to another math class I'm in where the order of how you put things on a sandwich changes and how many different ways you can do that. It was a fun mad lib program where we could fill in the blanks of a sandwich order similar to that of lab 3.
+    Lab 5, I enjoyed all of the part of this lab because they were fun little topics and activities like Blackjack and sandwich order. I enjoyed part 1 a lot because it connected to another math class I'm in where the order of how you put things on a sandwich changes and how many different ways you can do that. It was a fun mad lib program where we could fill in the blanks of a sandwich order similar to that of lab 3.
 
 * Lab 7
 
-    Lab 7, part 1 was my favorite because I love playing Blackjack in the real world. Seeing how the game plays out on the computer was something I found very intriguing. Being able to create functions to find the right hand for Blackjack despite not knowing how the Aces are given out was what I found very fun. Lastly, I liked to test the code extra on this part of the lab because you could do such a wide variety of different tests to see what score you would get.
+    Lab 7, part 1 was my favorite because I love playing Blackjack in the real world. Seeing how the game plays out on the computer was something I found very intriguing. Being able to create functions to find the right hand for Blackjack despite not knowing how the Aces or face cards are given out was what I found very fun. Lastly, I liked to test the code extra on this part of the lab because you could do such a wide variety of different tests to see what score you would get.
