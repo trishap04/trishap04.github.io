@@ -1,0 +1,21 @@
+# Hello World
+
+This is my home page! My name is Trisha Prajapati and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+
+## Computer Science Projects
+
+My GitHub page is http://github.com/trishap04.
+
+### CPSC 120
+
+* Lab 4
+
+    Lab 4, part 1 was a favorite because I always look forward to my birthday even when it's far away. With this code we were able to calculate the difference in dates to find the number of days between any date no matter how far away from each other they were. It also posed a nice challenge because the formulas and expressions are long for this lab. Even though I went through and had so many errors, it was a great relief to see "format passing" with the smiley face. Lastly I found researching Julian Days interesting and how they're different to regular dates. Converting them was a fun challenge. 
+
+* Lab 5
+
+    Lab 5, I enjoyed all of the part of this lab because they were fun little topis and activities like Blackjack and sandwich order. I enjoyed part 1 a lot because it connected to another math class I'm in where the order of how you put things on a sandwich changes and how many different ways you can do that. It was a fun mad lib program where we could fill in the blanks of a sandwich order similar to that of lab 3.
+
+* Lab 7
+
+    Lab 7, part 1 was my favorite because I love playing Blackjack in the real world. Seeing how the game plays 
